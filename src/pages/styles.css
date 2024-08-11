@@ -1,0 +1,138 @@
+/* SignUp.css */
+
+/* Importing Google Fonts - Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.input-wrapper {
+  height: 54px;
+  width: 100%;
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.input-field {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  font-size: 1rem;
+  border-radius: 0.31rem;
+  border: 1px solid #bfb3f2;
+  padding: 0px 1.25rem 0 3.12rem;
+  transition: 0.2s ease;
+  background: #1a1b1e; /* Input background */
+  color: white; /* Text color */
+}
+
+.input-field:focus {
+  border-color: #5F41E4; /* Border color on focus */
+}
+
+.input-wrapper i {
+  position: absolute;
+  top: 50%;
+  height: 100%;
+  display: flex;
+  color: #a395e0;
+  align-items: center;
+  transform: translateY(-50%);
+  pointer-events: none; /* Prevent interaction with icon */
+}
+
+.eye-icon {
+  right: 0.93rem;
+  color: #917DE8;
+  cursor: pointer;
+  font-size: 1.25rem;
+}
+
+.social-login {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-button {
+  display: flex;
+  gap: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0.75rem 0;
+  border-radius: 0.31rem;
+  align-items: center;
+  justify-content: center;
+  background: #F9F8FF;
+  border: 1px solid #D5CBFF;
+  transition: 0.3s ease;
+}
+
+.social-button:hover {
+  border-color: #5F41E4;
+  background: #f1eff9;
+}
+/* SignUp.css */
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 8px;
+  background-color: #1a1b1e;
+  padding: 8px;
+}
+
+.input-field {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 8px 8px 8px 32px; /* Add left padding to prevent overlap with the icon */
+  color: white;
+  background-color: transparent; /* Ensure transparency for a seamless look */
+}
+
+.icon {
+  width: 25px; /* Adjust icon size */
+  height: 25px; /* Adjust icon size */
+  margin-right: 8px; /* Space between icon and input */
+}
+
+.eye-icon {
+  cursor: pointer;
+  margin-left: 8px; /* Space between password input and eye icon */
+}
+
+.social-login {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Space between social buttons */
+}
+
+.sign-up-container {
+  max-width: 400px; /* Set max width */
+  width: 100%; /* Full width until max is reached */
+  max-height: 600px; /* Optional: Set max height */
+}
+.social-button {
+  background-color: transparent; /* Set to transparent */
+  border: 1px solid #ffffff; /* Border color */
+  border-radius: 8px; /* Rounded corners */
+  padding: 8px 16px; /* Padding for button */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth transition */
+}
+
+.social-button:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Hover effect */
+}
+
+.social-icon {
+  width: 24px; /* Adjust icon size */
+  height: 24px; /* Adjust icon size */
+}

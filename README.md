@@ -49,25 +49,25 @@ To install and run this project on your local machine, follow these steps:
 
 ## Images
 1.*Splash Screen*
-![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_56_31](https://github.com/user-attachments/assets/2e1cf4d5-9106-478c-a2b3-5fa34f7a9365)
+![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_56_31](https://github.com/user-attachments/assets/6d0f6d68-15c7-4dd0-ba68-33b1891a7170)
 2.*Main Page*
-![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 18_00_26](https://github.com/user-attachments/assets/d98df07c-13e3-4680-a1a7-7ff39bab4fe7)
+![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 18_00_26](https://github.com/user-attachments/assets/ad571f43-7246-433f-8114-da086f80fd50)
 3.*Create An Account*
-![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_57_04](https://github.com/user-attachments/assets/892cadf3-7197-46e4-ad5d-4634bd8d517a)
+![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_57_04](https://github.com/user-attachments/assets/eb1003b1-fe26-4fc1-a425-9630317e95a4)
 4.*Login*
-![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_57_21](https://github.com/user-attachments/assets/d1626aaf-f487-40d1-91a4-539d8e2b206c)
+![Vite + React + TS and 8 more pages - Personal - Microsoft​ Edge 09-08-2024 17_57_21](https://github.com/user-attachments/assets/8488ae5e-c454-45c9-8f68-e1bd19ea493b)
 5.*Google SignIn*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_06](https://github.com/user-attachments/assets/2e89181d-5ae0-4ce5-b41a-586d58e51530)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_06](https://github.com/user-attachments/assets/48f7c7f4-46d4-4c20-af5d-6c87593824b2)
 6.*OneBox Screen*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_20](https://github.com/user-attachments/assets/bf63de7c-b64a-4dd9-8c5f-7c14ad116d4d)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_20](https://github.com/user-attachments/assets/c25c00f5-a9fb-4f22-9baa-ccb065e5e502)
 7.*All InBox*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_52](https://github.com/user-attachments/assets/efb0f6bd-376e-4aa2-829d-2a11bc959766)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_39_52](https://github.com/user-attachments/assets/dd2e82b6-9a01-4573-826f-62ed9d57972d)
 8.*Replay Screen*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_02](https://github.com/user-attachments/assets/21ad7438-50ff-4b7f-9f33-e7c99293b9a8)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_02](https://github.com/user-attachments/assets/78afc1b6-5b5a-4d54-805f-e2a210b077d4)
 9.*Delete Screen*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_13](https://github.com/user-attachments/assets/c74c1c86-17a5-43e9-b2dc-d2207fb526ab)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_13](https://github.com/user-attachments/assets/8925f34f-99b9-474d-8e6f-c03ce2c2696f)
 10.*Toggle Change*
-![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_32](https://github.com/user-attachments/assets/897eaa0c-52b5-4d0b-a9d0-be57ce76e235)
+![Vite + React + TS and 6 more pages - Personal - Microsoft​ Edge 08-08-2024 14_40_32](https://github.com/user-attachments/assets/9f9381bf-f7b8-4a05-a6ff-0df4c585df62)
 
 
 ---

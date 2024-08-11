@@ -27,7 +27,7 @@ To install and run this project on your local machine, follow these steps:
 
    run npm run dev
 
-now open in browser :  https://reach-in-box-595g.vercel.app/
+now open in browser :  https://reachinbox-assignment1234.vercel.app/
 
    
    
